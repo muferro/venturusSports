@@ -1,2 +1,2 @@
-# Venturus Sport
-Front-end: Sigle web Page Veturus Sport 
+# Venturus Sports
+Front-end: Sigle web Page Veturus Sports
