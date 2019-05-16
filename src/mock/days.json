@@ -1,0 +1,75 @@
+[
+      {
+        "userId": 1,
+        "id": 1,
+        "days": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ]
+      },
+      {
+        "userId": 2,
+        "id": 2,
+        "days": [
+          "Sun", "Sat"
+        ]
+      },
+      {
+        "userId": 3,
+        "id": 3,
+        "days": [
+          "Mon"
+        ]
+      },
+      {
+        "userId": 4,
+        "id": 4,
+        "days": [
+          "Sun", "Thu", "Fri", "Sat"
+        ]
+      },
+      {
+        "userId": 5,
+        "id": 5,
+        "days": [
+          "Mon", "Tue", "Wed", "Thu", "Fri"
+        ]
+      },
+      {
+        "userId": 6,
+        "id": 6,
+        "days": [
+          "Fri", "Sat"
+        ]
+      },
+      {
+        "userId": 7,
+        "id": 7,
+        "days": [
+          "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"
+        ]
+      },
+      {
+        "userId": 8,
+        "id": 8,
+        "days": [
+          "Wed"
+        ]
+      },
+      {
+        "userId": 9,
+        "id": 9,
+        "days": [
+          "Sun", "Fri", "Sat"
+        ]
+      },
+      {
+        "userId": 10,
+        "id": 10,
+        "days": [
+          "Fri", "Sat"
+        ]
+      }]
