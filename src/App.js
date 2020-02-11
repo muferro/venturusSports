@@ -78,7 +78,7 @@ render() {
         <Row className="header">
         <Col sm="1"></Col>
         <Col sm="3">
-        <h1 className="logo"><FontAwesomeIcon icon="stroopwafel" size="2x" className="logo-icon"/> Venturus Sports</h1>
+        <h1 className="logo"><FontAwesomeIcon icon="stroopwafel" size="2x" className="logo-icon"/> Nome da Empresa</h1>
         </Col>
         <Col sm="7">
         <UncontrolledDropdown className="menu">
